@@ -1,8 +1,8 @@
-# HZC
+# HZC Alura
 
-Curso de Formação HTML e CSS (https://cursos.alura.com.br/formacao-html-e-css) do Módulo Layouts modernos para a Web
-
-Curso: CSS - Dispondo elementos com Flexbox e Grid.
+Cursos:
+* Curso de Formação HTML e CSS do Módulo Layouts modernos para a Web
+* Curso de CSS - Dispondo elementos com Flexbox e Grid.
 
 ## Apresentação
 
