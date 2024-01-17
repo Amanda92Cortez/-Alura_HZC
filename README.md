@@ -4,12 +4,14 @@
 
 <h1>HZC Alura</h1>
 
-# :pushpin: Sobre do projeto
-- `Formação` HTML e CSS - Módulo Layouts modernos para a Web
-- `Curso: CSS` Dispondo elementos com Flexbox e Grid
+# :pushpin: Formações
+- `Formação ` HTML e CSS
+
+# :pushpin: Cursos
+- `Curso ` CSS Dispondo elementos com Flexbox e Grid
 
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade` Plataforma web em Mobile e outros
+- `Funcionalidade ` Plataforma web em Mobile e outros
 
 # :bookmark_tabs: Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
