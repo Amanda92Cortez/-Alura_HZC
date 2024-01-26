@@ -2,7 +2,7 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
-<h1>HZC Alura</h1>
+<h1>HZC - Alura</h1>
 
 # :pushpin: Formações
 - `Formação ` HTML e CSS
@@ -20,7 +20,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto` git clone https://github.com/Amanda92Cortez/Alura_HZC.git
+- `Baixar projeto ` git clone https://github.com/Amanda92Cortez/Alura_HZC.git
 
 ## 📚Telas/Vídeos
 https://user-images.githubusercontent.com/19363871/181917701-e2ffbad3-ceee-4908-ac59-6361b8f8941c.mp4
