@@ -16,7 +16,8 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 🎯 Desafio
 Tela de detalhes
-https://user-images.githubusercontent.com/19363871/181917701-e2ffbad3-ceee-4908-ac59-6361b8f8941c.mp4
+![](img/amostra.gif) GIF ?
+
 
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/alura-hzc/assets/19363871/6579a41b-2837-4992-9686-800f361527c8)
@@ -30,6 +31,5 @@ Você pode [acessar o código fonte do projeto inicial](https://github.com/Amand
 - ` Executar projeto ` No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
 
 ## 🔎 Observações
-- [ ] Revisar vídeo
-- [ ] Ajustar a ideia
+- [ ] Gif Rápido
 - [ ] Finalizado
