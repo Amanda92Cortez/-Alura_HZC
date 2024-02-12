@@ -18,13 +18,8 @@ As técnicas e tecnologias utilizadas pra isso são:
 Tela de detalhes
 ![](img/amostra.gif) GIF ?
 
-
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/alura-hzc/assets/19363871/6579a41b-2837-4992-9686-800f361527c8)
-
-
-## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-hzc) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-hzc/archive/refs/heads/main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 - ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-hzc.git
